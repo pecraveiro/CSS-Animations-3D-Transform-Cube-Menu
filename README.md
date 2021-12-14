@@ -11,20 +11,20 @@
 
 ---
 
-## 📑 Sobre
+## 📑 Sobre:
 
-O projeto **CSS Animations 3D Transform Cube Menu** é uma aplicação de animação de botões com hover para a estilização de um futuro site. Ademais, o projeto foi feito baseado em um guia elaborado pelo canal do Youtube **Franks laboratory**.
+O projeto **CSS Animations 3D Transform Cube Menu** é uma aplicação de animação de botões com hover para a estilização de um futuro site. Ademais, o projeto foi feito baseado em um guia elaborado em canal do Youtube chamado **Franks Laboratory**.
 
 ---
 
-## 📑 Tenologias utilizadas
+## 📑 Tenologias utilizadas:
 
 - HTML;
 - CSS.
 
 ---
 
-## 📚 Guia completo
+## 📚 Guia completo:
 
 - Baseado nesse vídeo no [Youtube](https://www.youtube.com/watch?v=J_W6njFDw1U)
 
