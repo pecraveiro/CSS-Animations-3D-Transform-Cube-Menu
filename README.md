@@ -3,11 +3,9 @@
 <h1 align="center">
     <img src="https://user-images.githubusercontent.com/79882049/146046891-be66bfe0-b472-4177-8ec0-21c18fe948bb.gif"> <!-- URL da imagen -->
 </h1>
-
 <!--
 ![Design sem nome (3)](https://user-images.githubusercontent.com/79882049/146046891-be66bfe0-b472-4177-8ec0-21c18fe948bb.gif)
 -->
-
 ## 🔍 Índice
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
